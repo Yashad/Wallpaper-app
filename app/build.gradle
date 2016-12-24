@@ -1,0 +1,104 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+def versionMajor = 1
+def versionMinor = 0
+def versionPatch = 3
+def versionBuild = 0 // bump for dogfood builds, public betas, etc.
+
+// Load keystore file
+def keystorePropsFile = rootProject.file("keystore.properties");
+def keystoreProps = new Properties()
+keystoreProps.load(new FileInputStream(keystorePropsFile))
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    signingConfigs {
+        release {
+//            storeFile file(keystoreProps['storeFile'])
+//            storePassword keystoreProps['storePassword']
+//            keyAlias keystoreProps['keyAlias']
+//            keyPassword keystoreProps['keyPassword']
+        }
+    }
+
+    defaultConfig {
+        applicationId "tr.mht.wallpaper"
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode versionMajor * 10000 + versionMinor * 1000 + versionPatch * 100 + versionBuild
+        versionName "${versionMajor}.${versionMinor}.${versionPatch}"
+    }
+    buildTypes {
+        debug {
+            applicationIdSuffix ".d"
+            versionNameSuffix "-debug"
+            minifyEnabled false
+        }
+        release {
+            debuggable true
+            try {
+                signingConfig signingConfigs.release
+            } catch (ex) {
+
+            }
+
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    def supportVersion = "23.1.1"
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+
+    // Support Libraries
+    compile "com.android.support:support-v4:$supportVersion"
+    compile "com.android.support:appcompat-v7:$supportVersion"
+    compile "com.android.support:recyclerview-v7:$supportVersion"
+    compile "com.android.support:cardview-v7:$supportVersion"
+    compile "com.android.support:design:$supportVersion"
+    compile "com.android.support:palette-v7:$supportVersion"
+
+    // Mike Penz
+    compile('com.mikepenz:aboutlibraries:5.2.6@aar') {
+        transitive = true
+    }
+    compile('com.mikepenz:materialdrawer:4.4.4@aar') {
+        transitive = true
+    }
+    compile 'com.mikepenz:iconics-core:1.7.9@aar'
+    compile 'com.mikepenz:google-material-typeface:1.2.0.1@aar'
+
+    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+    compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+    compile 'com.squareup.okhttp:okhttp:2.5.0'
+    compile 'com.squareup.okhttp:okhttp-urlconnection:2.5.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.facebook.stetho:stetho:1.3.0'
+
+    compile 'com.github.xiprox.errorview:library:2.2.0'
+    compile 'com.google.android.apps.muzei:muzei-api:2.0'
+    compile('com.crashlytics.sdk.android:crashlytics:2.5.5@aar') {
+        transitive = true;
+    }
+}

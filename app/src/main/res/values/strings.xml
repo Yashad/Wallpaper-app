@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WellPaper</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_detail">Set Wallpaper</string>
+
+    <string name="muzei_description">Interesting photos from Flickr</string>
+
+    <!-- About Libraries -->
+    <string name="aboutLibraries_description_showIcon">true</string>
+    <string name="aboutLibraries_description_showVersion">true</string>
+    <string name="aboutLibraries_description_text">
+        <![CDATA[
+        <b>WellPaper</b> by <a href="1fincan.com">Muhammet Arslantaş</a>
+        is a simple yet powerful app that lets users to set their wallpapers
+        from thousands of awesome <a href="https://flickr.com">Flickr</a> photos.
+        ]]></string>
+    <string name="set_wallpaper">Set as wallpaper</string>
+    <string name="action_shuffle">Shuffle</string>
+</resources>

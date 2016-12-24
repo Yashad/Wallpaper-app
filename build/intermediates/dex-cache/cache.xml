@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/okio-1.6.0_c624f2bfe437efe55821ff42390e4093b8511879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_5ca4f6f8fde8c259f253e683a5bc86f89039a685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d60b9a9164ea682de132af0fdf9e5ea4e67d2041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_c56551cc5f904bd02344d5e5b67b8affd75647fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/4.4.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ece951eff74543d8b4502672607e0e0888dc746">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialdrawer-4.4.4_24a09d5c7c58abcc42ec9e23a30d4ac3e180b4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.1.1_2c323e28370f8986acbf83848c5113dee1513112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.1.4_b0fffa05f82d7d1f73464bd6067cd07cf65c6a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_6d43fc6ff316b7b3e0b313d38f80a1ea791697a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_86d7e4f7a693a55a449591fa6165e1c467ef8998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/1.7.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e4f6baed16f20ba345207fd677863df7da2f99a">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.mikepenz-iconics-core-1.7.9_63c4508462c57a2c4c9c429497a27b1527f261a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.8_56b7716eb87d0d0aa0ddf71bc1751c912d263987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_726728451a63dd2fef43821800771ac5f4567b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_49db80a75196770caf3190dd5e896eb1c1748ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2_a11cd1d9f6c6cb3caa571a9373341637449e8bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.0/87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc/stetho-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/stetho-1.3.0_fd01f3ab09468201a6b431d33a6349e1e1673882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.10_5df22c3c65030d14379e8fa4c1f2f842debc3129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.mikepenz/google-material-typeface/1.2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b646d398bbae664de1bf476c308a2b39d6d2651c">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.mikepenz-google-material-typeface-1.2.0.1_7ef5dc7c24b91b0c3256430b50592f73b5124002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.2.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa4722c731f92df41532b4e21bbd6b015226cd23">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialize-0.2.7_d4d9f0b465938857cc6934710e9db3bfdfe1888a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/gson-2.3.1_bafdde73bdbd921565f7b1fdc8ea1396c054a318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.5.0/d737653459be272e881d51024274fa4785225641/okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.5.0_e511c3724582de0619d804a173bd7bd2398662d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_d5a5ccab9432626add9b8b602beff0a2a0b1f5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_21b54ac184a9184fc7eda5c2b0ade1fe8b9ae6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_f598fac81bcceaacb5487e9ffa0d18f6f199711e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_4ea93065a31b3ba324878d863e3ae021787ef845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_8fb30c0788a6f8bf84c7714bc1873959aba83d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.github.xiprox.errorview/library/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bdd74cea58e0e4cee58a4ebc1af078c6dddf8bd">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.github.xiprox.errorview-library-2.2.0_b8003c0d37f466068131385ddf16aa15e942298f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_df3e01d5fb603519bc147292a898a73c02fb5127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.6_e7ef1266ade92a668ceadc32e34efa4e57b928e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.mikepenz/aboutlibraries/5.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0f4599faa70ea77eaabf3d5b56317c2383723e3">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.mikepenz-aboutlibraries-5.2.6_969a0634c275ff80625469a2091359c2c48c15f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/home/abhishek/Documents/git/opensource/WellPaper/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.5.5_9f96dbbfe3fb01067ab1e822ee0f063f8f455758.jar" />
+    </item>
+
+</items>
